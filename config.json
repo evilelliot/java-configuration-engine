@@ -1,0 +1,6 @@
+{
+    "author": "Alberto Ocaranza",
+    "version": "2.31",
+    "description": "Motor simple para manejar archivos de configuración en formato JSON",
+    "license": "GPL"
+}
